@@ -9,9 +9,10 @@ RainCandy Technology is a individual studio founded in 2013, focus on computer t
 - Operating systems for computers and other smart devices - 适用于计算机和其他智能设备的操作系统
   - Microsoft Windows (Including GA versions & latest Official Insider Preview Release - 含正式版本和官方发布的最新的 Insider Preview 版本)
   - Apple iOS / iPadOS / macOS / watchOS
+  - Huawei HarmonyOS (Retail Devices Only - 仅零售设备)
   - GNU/Linux (Especially Chinese distributions like Kylin OS or UnionTech OS - 特别是以银河麒麟和统信 UOS 为代表的国产发行版)
 - Hacking and localization of computer software, especially the following ones - 计算机软件的研究与汉化，特别是以下软件
-  - Corel VideoStudio（会声会影）
+  - Corel VideoStudio (会声会影)
   - MathType By WIRIS
   - WPS Office
 
