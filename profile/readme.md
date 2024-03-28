@@ -2,7 +2,7 @@
 <i>「Love & Curiosity & Welled Tears For Eternal Youngness」</br>
 「拥抱着爱的好奇心，热泪盈眶永远年轻」</i>
 
-RainCandy Technology is a individual studio founded in 2013, focus on computer technology stuffs. We have always believed that the magic of "enthusiasm" can bring the power to change the world.</br>
+RainCandy Technology is an individual studio founded in 2013, focus on computer technology stuffs. We have always believed that the magic of "enthusiasm" can bring the power to change the world.</br>
 雨糖科技于 2013 年创建，是一个由个人运营的数码科技工作室。我们始终相信「热爱」的魔法，可以带来改变世界的力量。
 
 # Our research areas - 我们的研究领域
