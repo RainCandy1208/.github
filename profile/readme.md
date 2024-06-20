@@ -5,7 +5,7 @@ All the past of us...<br>
 我们曾经的一切...<br>
 We will NOT forgot...<br>
 我们不会忘记...<br>
-Forever...<br>
+Till forever...<br>
 直到永远...<br></i>
 
 RainCandy Technology is an individual studio founded in 2013, focus on computer technology stuffs. We have always believed that the magic of "enthusiasm" can bring the power to change the world.</br>
