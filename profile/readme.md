@@ -3,7 +3,7 @@
 我们记得...<br>
 All the past of us...<br>
 我们曾经的一切...<br>
-We will NOT forgot...<br>
+We will NOT forget...<br>
 我们不会忘记...<br>
 Till forever...<br>
 直到永远...<br></i>
