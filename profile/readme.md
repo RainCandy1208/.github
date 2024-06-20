@@ -1,12 +1,12 @@
 # Introduction - 自我介绍
-<i>Because we create memories in our hearts<br>
-因为我们创造了心中的回忆<br>
-Because we record our stories of the past<br>
-因为我们记录了曾经的故事<br>
-Because we hope to moving forward with you<br>
-因为我们期待与你一同前行<br>
-Because we want to see your dreams come true<br>
-因为我们想看到你梦想成真<br></i>
+<i>We remember...<br>
+我们记得...<br>
+All the past of us...<br>
+我们曾经的一切...<br>
+We will NOT forgot...<br>
+我们不会忘记...<br>
+Forever...<br>
+直到永远...<br></i>
 
 RainCandy Technology is an individual studio founded in 2013, focus on computer technology stuffs. We have always believed that the magic of "enthusiasm" can bring the power to change the world.</br>
 雨糖科技于 2013 年创建，是一个由个人运营的数码科技工作室。我们始终相信「热爱」的魔法，可以带来改变世界的力量。
