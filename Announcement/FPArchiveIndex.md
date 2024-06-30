@@ -97,6 +97,7 @@ The "Updates" tab in Flash Player Settings Manager is also hiddened in the Windo
 |2023.12|34.0.0.305|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |2024.3|34.0.0.308|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |2024.6|34.0.0.315|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|2024.7β|34.0.0.317|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|Wait for release|Wait for release|Wait for release|
 ### Available Archives (Windows Offline Installer)
 |Date|Version|ActiveX|PPAPI|NPAPI|
 |:---|:----:|:----:|:----:|:----:|
