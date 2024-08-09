@@ -1,26 +1,26 @@
 # Introduction - 自我介绍
-<i>We remember...<br>
-我们记得...<br>
-All the past of us...<br>
-我们曾经的一切...<br>
-We will NOT forget...<br>
-我们不会忘记...<br>
-Till forever...<br>
-直到永远...<br></i>
+<i>Because we created memories in our hearts<br>
+因为我们创造了心中的回忆<br>
+Because we recorded the stories of the past<br>
+因为我们记录了曾经的故事<br>
+Because we want to accompany you moving forward<br>
+因为我们期待与你一同前行<br>
+Because we want to see your dreams come true<br>
+因为我们想看到你梦想成真<br></i>
 
 RainCandy Technology is an individual studio founded in 2013, focus on computer technology stuffs. We have always believed that the magic of "enthusiasm" can bring the power to change the world.</br>
 雨糖科技于 2013 年创建，是一个由个人运营的数码科技工作室。我们始终相信「热爱」的魔法，可以带来改变世界的力量。
 
 # Our research areas - 我们的研究领域
 - Operating systems for computers and other smart devices - 适用于计算机和其他智能设备的操作系统
-  - Microsoft Windows (Including GA versions & latest Official Insider Preview Release - 含正式版本和官方发布的最新的 Insider Preview 版本)
+  - Microsoft Windows (GA releases & latest Official Preview releases only - 仅正式版本和最新的官方预览版本)
   - Apple iOS / iPadOS / macOS / watchOS (Retail Devices Only - 仅零售设备)
-  - Huawei HarmonyOS
-  - GNU/Linux (Especially Chinese distributions like Kylin OS or UnionTech OS - 特别是以银河麒麟和统信 UOS 为代表的国产发行版)
+  - Google Android
+  - Huawei HarmonyOS (鸿蒙)
+  - GNU/Linux (Especially for Chinese distributions like Kylin OS or UnionTech OS - 特别是以银河麒麟和统信 UOS 为代表的国产发行版)
 - Hacking and localization of computer software, especially the following ones - 计算机软件的研究与汉化，特别是以下软件
   - Corel VideoStudio (会声会影)
   - MathType By WIRIS
-  - WPS Office
 
 # Follow us... | 关注我们...
 微信订阅号: [雨糖科技](https://github.com/RainCandyTech/.github/blob/main/wechat_qrcode/wechat_qrcode.png)</br>
